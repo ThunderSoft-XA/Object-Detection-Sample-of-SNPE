@@ -1,0 +1,3 @@
+/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/CMakeFiles/edit_cache.dir
+/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/CMakeFiles/native_object_test.dir

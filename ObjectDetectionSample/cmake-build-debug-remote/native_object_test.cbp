@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="native_object_test" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\usr\;CMake Files\..\..\usr\local\;CMake Files\..\..\usr\local\opencv\;CMake Files\..\..\usr\local\opencv\share\;CMake Files\..\..\usr\local\opencv\share\OpenCV\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="native_object_test">
+         <Option output="/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/native_object_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/tmp/tmp.IGrGkNw3hB/include" />
+            <Add directory="/tmp/tmp.IGrGkNw3hB/snpe/include/zdl" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/aarch64-linux-gnu" />
+            <Add directory="/usr/include/aarch64-linux-gnu/c++/4.9" />
+            <Add directory="/usr/include/c++/4.9" />
+            <Add directory="/usr/include/c++/4.9/backward" />
+            <Add directory="/usr/lib/gcc/aarch64-linux-gnu/4.9/include" />
+            <Add directory="/usr/lib/gcc/aarch64-linux-gnu/4.9/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/opencv/include" />
+            <Add directory="/usr/local/opencv/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 native_object_test" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="native_object_test/fast">
+         <Option output="/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/native_object_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/tmp/tmp.IGrGkNw3hB/include" />
+            <Add directory="/tmp/tmp.IGrGkNw3hB/snpe/include/zdl" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/aarch64-linux-gnu" />
+            <Add directory="/usr/include/aarch64-linux-gnu/c++/4.9" />
+            <Add directory="/usr/include/c++/4.9" />
+            <Add directory="/usr/include/c++/4.9/backward" />
+            <Add directory="/usr/lib/gcc/aarch64-linux-gnu/4.9/include" />
+            <Add directory="/usr/lib/gcc/aarch64-linux-gnu/4.9/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/opencv/include" />
+            <Add directory="/usr/local/opencv/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 native_object_test/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.IGrGkNw3hB/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/tmp/tmp.IGrGkNw3hB/src/ObjectDetection.cpp">
+         <Option target="native_object_test"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.IGrGkNw3hB/test/main.cpp">
+         <Option target="native_object_test"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.IGrGkNw3hB/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.IGrGkNw3hB/../../usr/local/opencv/share/OpenCV/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\usr\local\opencv\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.IGrGkNw3hB/../../usr/local/opencv/share/OpenCV/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\usr\local\opencv\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.IGrGkNw3hB/../../usr/local/opencv/share/OpenCV/OpenCVModules.cmake">
+          <Option virtualFolder="CMake Files\..\..\usr\local\opencv\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.IGrGkNw3hB/../../usr/local/opencv/share/OpenCV/OpenCVModules-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\usr\local\opencv\share\OpenCV\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
